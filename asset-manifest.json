@@ -1,9 +1,8 @@
 {
   "files": {
     "main.css": "/YDHMlogistic/static/css/main.8c4c6b07.css",
-    "main.js": "/YDHMlogistic/static/js/main.997de65c.js",
+    "main.js": "/YDHMlogistic/static/js/main.ccfe1241.js",
     "static/js/787.e9f4fd0e.chunk.js": "/YDHMlogistic/static/js/787.e9f4fd0e.chunk.js",
-    "static/media/img_2.jpg": "/YDHMlogistic/static/media/img_2.66aaa53bf95152f05777.jpg",
     "static/media/pepe office.png": "/YDHMlogistic/static/media/pepe office.0776fafcb3adc45aa262.png",
     "static/media/Fondoprincipal.jpeg": "/YDHMlogistic/static/media/Fondoprincipal.2e0146b01aae8c7786e4.jpeg",
     "static/media/icomoon.svg?10si43": "/YDHMlogistic/static/media/icomoon.9cc47145c3e61b03d8b8.svg",
@@ -17,13 +16,9 @@
     "static/media/Jorgecasañas.jpeg": "/YDHMlogistic/static/media/Jorgecasañas.d926b89945a7dedfbf70.jpeg",
     "static/media/Carloscuadra.jpeg": "/YDHMlogistic/static/media/Carloscuadra.e2756067d86d683f4e2d.jpeg",
     "static/media/YDHMlogo-removebg-preview.png": "/YDHMlogistic/static/media/YDHMlogo-removebg-preview.ac49a09aebd1e8f8036c.png",
-    "static/media/img_1.jpg": "/YDHMlogistic/static/media/img_1.0e7e13bde22260b72a6b.jpg",
     "static/media/camion.jpeg": "/YDHMlogistic/static/media/camion.2e845f46470ab2f69618.jpeg",
-    "static/media/img_4.jpg": "/YDHMlogistic/static/media/img_4.6acf436f69411972b734.jpg",
-    "static/media/img_3.jpg": "/YDHMlogistic/static/media/img_3.557e3a2d8656bf23f562.jpg",
     "static/media/Dayana1.jpeg": "/YDHMlogistic/static/media/Dayana1.f9ce7aab700e1bea3882.jpeg",
     "static/media/person_4.jpg": "/YDHMlogistic/static/media/person_4.321ab410186aeae915d2.jpg",
-    "static/media/img_5.jpg": "/YDHMlogistic/static/media/img_5.c15a354dc6d7ff752eba.jpg",
     "static/media/Flaticon.svg": "/YDHMlogistic/static/media/Flaticon.5587a1c37953c79b9e67.svg",
     "static/media/blog_2.jpg": "/YDHMlogistic/static/media/blog_2.47216b0b35e29240e807.jpg",
     "static/media/imgfondodiferencial.jpg": "/YDHMlogistic/static/media/imgfondodiferencial.31bff61b7959251d87bc.jpg",
@@ -35,11 +30,11 @@
     "static/media/Flaticon.woff2": "/YDHMlogistic/static/media/Flaticon.9fdefbe82f4b664d5d36.woff2",
     "index.html": "/YDHMlogistic/index.html",
     "main.8c4c6b07.css.map": "/YDHMlogistic/static/css/main.8c4c6b07.css.map",
-    "main.997de65c.js.map": "/YDHMlogistic/static/js/main.997de65c.js.map",
+    "main.ccfe1241.js.map": "/YDHMlogistic/static/js/main.ccfe1241.js.map",
     "787.e9f4fd0e.chunk.js.map": "/YDHMlogistic/static/js/787.e9f4fd0e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8c4c6b07.css",
-    "static/js/main.997de65c.js"
+    "static/js/main.ccfe1241.js"
   ]
 }
